@@ -1,0 +1,4 @@
+各文件的作用：
+function.py  适应度函数
+hro.py  主程序文件
+individual.py  向上抽取的种群中的个体的公共父类
